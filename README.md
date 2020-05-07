@@ -13,7 +13,7 @@ __________________________________________________________________
 2. Project Notebooks (.ipynb)
   * DataCleaning - This notebook contains all of the steps to turn the raw data into the cleaned data used for analysis <br/>
 
-  * [Evaluating The Box Office]()
+  * [Evaluating The Box Office](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Evaluating%20The%20Box%20Office.ipynb)
     - This notebook contains analyses pertaining to the profitability of movies through box domestic office numbers
     - link
   - Saif Question 1
@@ -34,7 +34,7 @@ Microsoft sees all the big companies creating original video content, and they w
 Your team is charged with doing data analysis and creating a presentation that explores what type of films are currently
 doing the best at the box office. You must then translate those findings into actionable insights that the CEO can use when deciding what type of films they should be creating.
 ______________________________________________________________
-### Evaluating The Box Office
+### [Evaluating The Box Office](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Evaluating%20The%20Box%20Office.ipynb)
 #### ***Important Questions to Answer***<br/>
 Firstly, before even evaluating how to produce great content, we must make sure the movie industry is showing healthy economic fundamentals. To evaluate if the movie industry is a healthy industry we will aim to answer the questions proposed in the beginning of this notebook.
 
