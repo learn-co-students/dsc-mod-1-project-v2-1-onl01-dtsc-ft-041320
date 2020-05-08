@@ -20,6 +20,9 @@ __________________________________________________________________
   - [Runtime Optimization for Popularity or Profit](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Runtime%20Optimization%20for%20Popularity%20or%20Profit.ipynb)
 
   * [Genre Optimization](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Heather's%20Final%20Notebook.ipynb)
+3. [Non-Technical Presentation PDF](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Non-Technical%20Presentation.pdf)
+4. [Video Overview of Project 10 minutes]()
+
 
 ___________________________________________________________________________________________
 ## Notebook Summaries
@@ -77,3 +80,13 @@ ______________________________________________________________
 # Check out my [blog post](https://medium.com/@blake.samaha16/my-first-data-science-exploration-project-the-movie-industry-db9c308e3842) and provide some feedback!
 ______________________________________________________________
 # [Non-Technical Presentation Link](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Non-Technical%20Presentation.pdf)
+__________________
+### Future Work - If I had more time
+If I had much more time I would love to do two different things.
+  1. Further Optimization correlations to reduce costs
+    - Which genres are the cheapest to make?
+    - Are experience directors and actors really need to make money?
+    - Evaluate box office sucess of inexperienced movie studios
+  2. Evaluate the revenue geerated from streaming services such as Netflix
+    - A big portion of the revenue is missing from film studios by only looking at box office data. I would like to see what the total revenue streams of this business is
+    - Adding in inflation data to this to see what the true box office dolllars are to get a better look at ticket sale dollars over the years
