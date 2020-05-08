@@ -21,7 +21,7 @@ __________________________________________________________________
 
   * [Genre Optimization](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Heather's%20Final%20Notebook.ipynb)
 3. [Non-Technical Presentation PDF](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Non-Technical%20Presentation.pdf)
-4. [Video Overview of Project 10 minutes]()
+4. [Video Overview of Project 10 minutes](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/2020-05-08%2011-56-20.mkv)
 
 
 ___________________________________________________________________________________________
