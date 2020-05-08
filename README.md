@@ -54,8 +54,30 @@ Similarly to question 2 lets look at [Figure 2.1](https://github.com/bsamaha/dsc
 [Figure 3.0](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/figureImages/Figure%203.0.png) measures the correlation between multiple variables including production budget and profit per movie and ROI. The values for production budget vs profit is 0.055 and production budget vs ROI is -0.14. This means that while production budget does have a little effect on ticket sales the increased cost in the budget is greater therefore hurting your return metrics. ***This shows that a larger production budget has no change to your profit and actually will hurt your return metrics.***
 
 #### ***Conclusion***
-In summary, on this data I would not recommend entering the movie industry as an inexperienced content creator. The majority of movies are not doing well and there is an extremely wide range in possible outcomes. That being said, I believe this data is leaving out a major part of the revenue stream for movies in the on demand market. If we had data on the income generated from on demand services such as Netflix it may shed a much more positive light on becoming a content creator.
+In summary, on this data **I would not recommend entering the movie industry as an inexperienced content creator.** The majority of movies are not doing well and there is an extremely wide range in possible outcomes. That being said, I believe this data is leaving out a major part of the revenue stream for movies in the on demand market. If we had data on the income generated from on demand services such as Netflix it may shed a much more positive light on becoming a content creator.
 
-### Saif Question 1
-### Saif Question 3
-### Heather Final Notebook
+### [Release Date Optimization](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Release%20Date%20Optimization.ipynb)
+#### ***1. What is the best day/month to release movies vs popularity/domestic gross ticket sales?***
+Try to release movies on a **Friday** so that more people will come and watch the movie which will drive up ticket sales as compared to other days. We have found out that **December** by far is the most popular and profitable month for movies to be released as compared to other months. So try to release movies in the **October to December** range of months.
+
+### [Runtime Optimization for Popularity or Profit](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Runtime%20Optimization%20for%20Popularity%20or%20Profit.ipynb)
+#### ***2. Is there a relationship of run time of movies vs domestic gross, popularity and production budget?***
+It seems that the **highest grossing** movies average to be around **123 minutes** while the **lowest grossing movies** average around the **95 minute** mark. The **most popular movies** in the **top 100 movies** have a runtime of **149 minutes**.
+If we take into consideration the most popular movies like Titanic, Avatar, All Marvel movies, this is what we would expect. As per our numbers, people normally like longer movies. Also as we can see in the heatmap that the correlation coefficient of runtime to production budget is positively correlated and is **0.31** which is moderately strong.
+
+Make movies averaging the **120-150 minutes range** and keep in mind that one of the factors that will make **production budget will increase as the movie runtime increases.**
+
+
+
+
+
+### [Genre Optimization](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Heather's%20Final%20Notebook.ipynb)
+
+#### ***1. What is the top overall movie genre?***
+Out of the top 100 domestic gross movies over the past 30 years, the genre **'Action, Adventure, Sci-Fi'** made up the largest successful genre group in that data sample.
+
+#### ***2.Is there a correlation between release month and higher profitability in that genre?***
+Our findings showed that releasing **'Action, Adventure, Sci-Fi' movies in late Spring/early-mid Summer, Spring Break week, during the holidays**, and if it is a **cultural movie, released during that culture's Heritage month,** all proved to be the most profitable times of the year to release that genre.
+
+#### ***3. Is there a correlation between production budget and net profits in the that genre?***
+Sticking to a production budget of **200 million dollars while producing an 'Action, Adventure, Sci-Fi' movie has proven to be the key ingredient to high net profitability** that can be forecasted to be between **200-500 million dollars profit.**
