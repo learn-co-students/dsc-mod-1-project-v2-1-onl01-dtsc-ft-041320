@@ -68,9 +68,6 @@ If we take into consideration the most popular movies like Titanic, Avatar, All 
 Make movies averaging the **120-150 minutes range** and keep in mind that one of the factors that will make **production budget will increase as the movie runtime increases.**
 
 
-
-
-
 ### [Genre Optimization](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Heather's%20Final%20Notebook.ipynb)
 
 #### ***1. What is the top overall movie genre?***
@@ -81,3 +78,7 @@ Our findings showed that releasing **'Action, Adventure, Sci-Fi' movies in late 
 
 #### ***3. Is there a correlation between production budget and net profits in the that genre?***
 Sticking to a production budget of **200 million dollars while producing an 'Action, Adventure, Sci-Fi' movie has proven to be the key ingredient to high net profitability** that can be forecasted to be between **200-500 million dollars profit.**
+______________________________________________________________
+# Check out my [blog post!](https://medium.com/@blake.samaha16/my-first-data-science-exploration-project-the-movie-industry-db9c308e3842) and provide some feedback!
+______________________________________________________________
+# [Non-Technical Presentation Link]()
