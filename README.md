@@ -8,23 +8,19 @@ __________________________________________________________________
 
 ## Relevant File Contents of This Repository
 1. Raw DataCleaning
-  1. zippedData folder - contains raw data used in this project <br/>
+  - [zippedData folder](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/tree/master/zippedData) - contains raw data used in this project <br/>
 
 2. Project Notebooks (.ipynb)
-  * DataCleaning - This notebook contains all of the steps to turn the raw data into the cleaned data used for analysis <br/>
+  * [DataCleaning](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/DataCleaning.ipynb) - This notebook contains all of the steps to turn the raw data into the cleaned data used for analysis <br/>
 
   * [Evaluating The Box Office](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Evaluating%20The%20Box%20Office.ipynb)
-    - This notebook contains analyses pertaining to the profitability of movies through box domestic office numbers
-    - link
-  - Saif Question 1
-    - brief description
-    - link
-  - Saif Question 3
-    - brief description
-    - link
-  * Heather Final Notebook
-    * brief description
-    * link
+
+  - [Release Date Optimization](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Release%20Date%20Optimization.ipynb)
+
+  - [Runtime Optimization for Popularity or Profit](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Runtime%20Optimization%20for%20Popularity%20or%20Profit.ipynb)
+
+  * [Genre Optimization](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Heather's%20Final%20Notebook.ipynb)
+
 ___________________________________________________________________________________________
 ## Notebook Summaries
 
@@ -80,4 +76,4 @@ Sticking to a production budget of **200 million dollars while producing an 'Act
 ______________________________________________________________
 # Check out my [blog post](https://medium.com/@blake.samaha16/my-first-data-science-exploration-project-the-movie-industry-db9c308e3842) and provide some feedback!
 ______________________________________________________________
-# [Non-Technical Presentation Link]()
+# [Non-Technical Presentation Link](https://github.com/bsamaha/dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320/blob/master/Non-Technical%20Presentation.pdf)
